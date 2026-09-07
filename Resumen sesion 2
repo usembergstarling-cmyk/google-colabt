@@ -1,0 +1,9 @@
+Fundamentos sobre el aprendizaje automatico o machine learning
+Plano de Machine Learning
+1 valor real: El aprendizaje automatico es un sistema que mejora una tarea a medida de que gana experiencia. ML y mineria de datos
+2 tipos de sistemas: Aprendizaje supervisado, no supervisado y semisupervisado. Aprendizaje por refuerzo un agente toma decisiones a prueba y error para ganar recompensas y no castigos
+3 flujo de datos y ritmos de aprendizaje: Aprendizaje por lotes, requiere buen harward. Aprendizaje en linea, va digiriendo pequeños bloques de datos, se adapta a mercados financieros y resuelve problemas estadisticos, aprendizaje fuera de nucleo
+4 estrategias para generalizar: Aprendizaje basado en instancias, actua como archivador perfecto, hace clasificaciones por segmentos ya conocidos. Aprendizaje basado en modelos,
+5 desafios principales pruebas: Ingenieria de caracteristicas. Casos de sobreajuste, un complejo que memoriza el ruido. Infra ajuste, es demasiado basico, necesita un balance.
+6 validacion final: Un conjunto de entrenamiento para enseñarle al modelo. Entrenamiento, conjunto principal, validacion, prueba final.
+Que riesgos tienen los modelos no supervisados? 
